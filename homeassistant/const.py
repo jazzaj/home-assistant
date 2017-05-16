@@ -192,6 +192,7 @@ STATE_ALARM_ARMED_AWAY = 'armed_away'
 STATE_ALARM_PENDING = 'pending'
 STATE_ALARM_TRIGGERED = 'triggered'
 STATE_LOCKED = 'locked'
+STATE_SET_COVER_POSITION = 'cover_position'
 STATE_UNLOCKED = 'unlocked'
 STATE_UNAVAILABLE = 'unavailable'
 
